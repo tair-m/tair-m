@@ -1,2 +1,2 @@
 # About me
-I'm a cybersecurity professional bridging the gap between defense and offense as a SOC Analyst and active Bug Bounty Hunter. Holding the HTB CPTS certification, my focus spans from enterprise threat hunting and custom Splunk engineering to structured web application penetration testing. I am passionate about continuous learning through CTFs and advanced homelabs.
+I'm a certified cybersecurity specialist passionate about offensive security and red teaming. Recently certified as an HTB CPTS, I am eager to apply my skills in adversary simulation and advanced vulnerability assessment. Currently working as an independent Bug Bounty Hunter.
